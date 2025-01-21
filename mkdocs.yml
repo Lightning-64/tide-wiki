@@ -1,0 +1,13 @@
+site_name: Tide Wiki
+site_description: Wiki and documentation for the Tide mod
+site_author: Lightning-64
+
+nav:
+  - Home: index.md
+  - Mechanics:
+    - Fishing Minigame: mechanics/fishing-minigame.md
+    - The Bait System: mechanics/bait-system.md
+    - Fishing Journal: mechanics/fishing-journal.md
+    - Fishing Rod Customization: mechanics/rod-customization.md
+  - Items: items/
+  - Configuration: config/
