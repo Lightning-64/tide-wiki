@@ -9,5 +9,41 @@ nav:
     - The Bait System: mechanics/bait-system.md
     - Fishing Journal: mechanics/fishing-journal.md
     - Fishing Rod Customization: mechanics/rod-customization.md
-  - Items: items/
-  - Configuration: config/
+  - Items:
+    - Fish: items/fish.md
+    - Fishing Rods: items/fishing-rods.md
+  - Configuration:
+    - Mod Config Settings: config/mod-config.md
+    - Datapack Config Guides:
+      - Modifying the Journal: config/datapacks/journal-modification.md
+
+extra_css:
+  - stylesheets/extra.css
+
+repo_url: https://github.com/Lightning-64/Tide
+repo_name: Lightning-64/Tide
+
+markdown_extensions:
+  - tables
+
+theme:
+  name: material
+  palette:
+    - scheme: slate
+      primary: custom
+      toggle:
+        icon: material/lightbulb-outline
+        name: Switch to light mode
+    - scheme: default
+      primary: custom
+      toggle:
+        icon: material/lightbulb
+        name: Switch to dark mode
+  logo: assets/tide-white.png
+  favicon: assets/favicon.png
+  icon:
+    repo: fontawesome/brands/github
+  features:
+    - header.autohide
+    - navigation.tabs
+    - navigation.sections

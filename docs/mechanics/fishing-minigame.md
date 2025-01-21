@@ -1,9 +1,5 @@
 # Fishing Minigame
 
-The fishing minigame is a simple mechanic meant to add a bit of a challenge to fishing.
-
----
-
 ### Activation
 
 The minigame activates whenever a fish is caught, meaning after you right-click with a fishing rod to actually reel in the fish. Once activated, a colored bar will appear above the crosshair, as seen below.
