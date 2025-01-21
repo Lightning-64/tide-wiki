@@ -10,8 +10,17 @@ nav:
     - Fishing Journal: mechanics/fishing-journal.md
     - Fishing Rod Customization: mechanics/rod-customization.md
   - Items:
-    - Fish: items/fish.md
     - Fishing Rods: items/fishing-rods.md
+    - Fishing Journal: items/fishing-journal.md
+    - Angling Table: items/angling-table.md
+    - Fishing Bobbers: items/bobbers.md
+    - Fishing Hooks: items/hooks.md
+    - Fishing Lines: items/lines.md
+    - Bait Items: items/bait-items.md
+    - Loot Crates: items/loot-crates.md
+    - Jelly Torch: items/jelly-torch.md
+    - Deep Aqua Crystal/Arrow: items/deep-aqua-crystal-arrows.md
+    - Junk Items: items/junk.md
   - Configuration:
     - Mod Config Settings: config/mod-config.md
     - Datapack Guides:
@@ -25,6 +34,7 @@ repo_name: Lightning-64/Tide
 
 markdown_extensions:
   - tables
+  - attr_list
 
 theme:
   name: material

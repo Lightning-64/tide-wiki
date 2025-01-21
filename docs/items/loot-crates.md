@@ -1,0 +1,3 @@
+# Loot Crates
+
+todo lol
