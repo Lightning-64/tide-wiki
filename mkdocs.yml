@@ -14,7 +14,7 @@ nav:
     - Fishing Rods: items/fishing-rods.md
   - Configuration:
     - Mod Config Settings: config/mod-config.md
-    - Datapack Config Guides:
+    - Datapack Guides:
       - Modifying the Journal: config/datapacks/journal-modification.md
 
 extra_css:
