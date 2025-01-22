@@ -16,19 +16,19 @@ Increases fishing speed by 2.
 
 4 Bait can be crafted using one of any flower, one of any seed, one bone meal, and one rotten flesh. Alternatively, it can be found in ocean ruin and shipwreck chests.
 
-![bait-recipe](/assets/images/recipes/bait.png)
+![bait-recipe](../assets/images/recipes/bait.png)
 
 ## Lucky bait
 Increases fishing luck by 2.
 
 16 Lucky bait can be crafted by surrounding a rabbit's foot in 8 regular bait. Alternatively, it can be found in buried treasure and shipwreck chests.
 
-![lucky-bait-recipe](/assets/images/recipes/lucky-bait.png)
+![lucky-bait-recipe](../assets/images/recipes/lucky-bait.png)
 
 ## Magnetic bait
 Increases the chance of catching a crate by 25%, and increases fishing speed by 1.
 
 4 Magnetic bait can be crafted using iron nuggets, redstone, lapis, bait, and prismarine crystals in the configuration shown below. Alternatively, it can be found in buried treasure chests.
 
-![magnetic-bait-recipe](/assets/images/recipes/magnetic-bait.png)
+![magnetic-bait-recipe](../assets/images/recipes/magnetic-bait.png)
 

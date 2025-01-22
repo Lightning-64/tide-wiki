@@ -6,7 +6,7 @@ The minigame activates whenever a fish is caught, meaning after you right-click 
 
 The goal is to try and get the vertical white bar to be as close to the center of the minigame GUI as possible, in the light green section.
 
-![minigame](/assets/images/minigame.png)
+![minigame](../assets/images/minigame.png)
 _A player playing the minigame_
 
 ---
@@ -38,7 +38,7 @@ Depending how close the vertical bar is to the center, the minigame will have di
 > * The text will display in the `black` color
 > * Achieving this rating also means you might need to get better.
 
-![image](/assets/images/perfect-catch.png)
+![image](../assets/images/perfect-catch.png)
 _A player getting the "perfect" rating in the minigame_
 
 ---
