@@ -13,8 +13,8 @@ Each item should have its own json file - it's recommended to name the json file
 Inside of each bait data file, there are 3 properties that need to be defined:
 
 - `item` - A string containing item ID of the item you want to add the data to.
-- `speed_bonus` - An integer containing the speed bonus of the bait item. See [the bait page](/items/bait-items/#stats) for details on what that means.
-- `luck_bonus` - An integer containing the luck bonus of the bait item. See [the bait page](/items/bait-items/#stats) for details on what that means.
+- `speed_bonus` - An integer containing the speed bonus of the bait item. See [the bait page](https://lightning-64.github.io/items/bait-items/#stats) for details on what that means.
+- `luck_bonus` - An integer containing the luck bonus of the bait item. See [the bait page](https://lightning-64.github.io/items/bait-items/#stats) for details on what that means.
 
 Here's an example using a torchflower:
 

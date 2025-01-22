@@ -1,13 +1,13 @@
 # Bait Items
 
-![bait-types](/assets/images/bait-types.png){width=250}
+![bait-types](../assets/images/bait-types.png){width=250}
 
 _Bait, Lucky Bait, and Magnetic Bait, respectively._
 
 ### Stats ###
 Any item that can be used as bait will say so in it's description:
 
-![bait-stats](/assets/images/bait-stats.png){width=250}
+![bait-stats](../assets/images/bait-stats.png){width=250}
 
 Each level of fishing speed is equal to one level of the Lure enchantment, and each level of fishing luck is equal to one level of the Luck of the Sea enchantment.
 

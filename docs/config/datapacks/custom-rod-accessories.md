@@ -42,7 +42,7 @@ Let's say you have an item called `namespace:test_fishing_bobber`. All you have 
 Creating a fishing hook is similar to creating a bobber, but the item model doesn't matter. All you need to do differently is to add a texture that will be displayed on the fishing hook entity. This file will need to be placed in `assets/tide/textures/entity/fishing_hook/your_item_name.png`. To create the texture, copy [this texture](https://github.com/Lightning-64/Tide/blob/main/common/src/main/resources/assets/tide/textures/entity/fishing_hook/lavaproof_fishing_hook.png) of the lavaproof fishing hook as a guide.
 
 ### Translation key
-See the [bobber translation key guide](/config/datapacks/custom-rod-accessories/#translation-key) above. As an example, "Lavaproof Fishing Hook" would be shortened to "Lavaproof Hook"
+See the [bobber translation key guide](https://lightning-64.github.io/config/datapacks/custom-rod-accessories/#translation-key) above. As an example, "Lavaproof Fishing Hook" would be shortened to "Lavaproof Hook"
 
 ### Adding the item as a hook
 Let's say you have an item called `namespace:test_fishing_hook`. Just like for bobbers, all you have to do to assign this item as a hook is to give it the `hooks` tag. This can be done by creating a file named `hooks.json` in the `data/tide/tags/item/` path in your datapack, and adding the item to it like this:
@@ -78,7 +78,7 @@ Here's an example with Tide's reinforced fishing line. You may want to copy this
 > ```
 
 ### Translation key
-See the [bobber translation key guide](/config/datapacks/custom-rod-accessories/#translation-key) above. As an example, "Golden Fishing Line" would be shortened to "Golden Line"
+See the [bobber translation key guide](https://lightning-64.github.io/config/datapacks/custom-rod-accessories/#translation-key) above. As an example, "Golden Fishing Line" would be shortened to "Golden Line"
 
 ### Adding the item as a line
 Let's say you have an item called `namespace:test_fishing_line`. Just like for bobbers and hooks, all you have to do to assign this item as a line is to give it the `lines` tag. This can be done by creating a file named `lines.json` in the `data/tide/tags/item/` path in your datapack, and adding the item to it like this:
