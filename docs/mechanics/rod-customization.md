@@ -1,6 +1,6 @@
 # Fishing Rod Customization
 
-Fishing rods can be customized by adding [bobbers](https://lightning-64.github.io/tide-wiki/items/bobbers), [hooks](https://lightning-64.github.io/tide-wiki/items/hooks), and [lines](https://lightning-64.github.io/tide-wiki/items/lines) to them at the [Angling Table](https://lightning-64.github.io/tide-wiki/angling-table).
+Fishing rods can be customized by adding [bobbers](https://lightning-64.github.io/tide-wiki/items/bobbers), [hooks](https://lightning-64.github.io/tide-wiki/items/hooks), and [lines](https://lightning-64.github.io/tide-wiki/items/lines) to them at the [Angling Table](https://lightning-64.github.io/tide-wiki/items/angling-table).
 
 ## GUI Layout
 
