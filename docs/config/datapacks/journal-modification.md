@@ -1,8 +1,8 @@
 # Modifying the Journal
 
-## Getting started
-
 As of version 1.3.2, you can add custom pages and profiles to the fishing journal through the use of a datapack! This can be especially useful for modpack creators or mod developers who want to add other fish to the journal that aren't already built in.
+
+## Getting started
 
 To get started, either download the example datapack from [this page](https://github.com/Lightning-64/Tide-example-datapack) by pressing code -> download zip and extracting the files, or just use it as a guide to create your own.
 
