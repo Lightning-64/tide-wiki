@@ -75,7 +75,6 @@ theme:
   features:
     - header.autohide
     - navigation.tabs
-    - navigation.tabs.sticky
     - navigation.expand
     - navigation.path
     - navigation.top
