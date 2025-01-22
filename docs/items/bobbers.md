@@ -27,9 +27,9 @@ _(in order of appearance above)_
 - **Apple Fishing Bobber**
   > Material: Apple
 - **Golden Apple Fishing Bobber**
-  > Material: Apple
+  > Material: Golden Apple
 - **Enchanted Golden Apple Fishing Bobber**
-  > Material: Apple
+  > Material: Enchanted Golden Apple
 - **Iron Fishing Bobber**
   > Material: Iron Ingot
 - **Golden Fishing Bobber**
@@ -56,3 +56,6 @@ _(in order of appearance above)_
   > Material: Heart of the Sea
 - **Grassy Fishing Bobber**
   > Material: Grass Block
+
+!!! tip
+    The Apple bobber, Golden Apple bobber, and Enchanted Golden Apple bobber can be eaten to recieve their effects!
