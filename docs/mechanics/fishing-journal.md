@@ -3,7 +3,7 @@
 The fishing journal is an item that will allow the player to keep track of the fish that they have discovered while playing the game.
 
 !!! note
-    This page is mainly about the mechanics of the fishing journal menu. For more about the fishing journal item, see [this page](/items/fishing-journal).
+    This page is mainly about the mechanics of the fishing journal menu. For more about the fishing journal item, see [this page](https://lightning-64.github.io/tide-wiki/items/fishing-journal).
 
 ## Unlocking fish
 
