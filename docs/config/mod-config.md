@@ -2,7 +2,8 @@
 
 Tide uses [Cloth Config](https://modrinth.com/mod/cloth-config) for its config screens, allowing config settings to be modified from within in-game gui. To open the mod's config settings on forge/neoforge, go to `options -> mods` and click on Tide, then open the config menu. To open the mod's config screen on fabric, you'll want to install [Mod Menu](https://modrinth.com/mod/modmenu). Then, you can configure Tide in the same way as forge/neoforge by opening the mod menu, finding Tide, and opening the config menu.
 
-_Note: Alternatively, you can modify the config settings by finding Tide's config file in the minecraft instance -> config folder._
+!!! info
+    Alternatively, you can modify the config settings by finding Tide's config file in the minecraft instance -> config folder.
 
 Once you open the config screen, there are 3 tabs: general, minigame, and worldgen
 

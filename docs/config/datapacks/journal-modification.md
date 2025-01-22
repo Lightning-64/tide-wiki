@@ -100,4 +100,5 @@ Removal data is stored in the `removals` folder at `data/tide/journal/removals`.
 
 ---
 
-That's all. If your page or profiles don't load properly or you can't see them in the mod, check to make sure everything is spelled and formatted correctly. Alternatively, you can look for parsing errors in the logs that might relate to the datapack.
+!!! tip
+    If your page or profiles don't load properly or you can't see them in the mod, check to make sure everything is spelled and formatted correctly. Alternatively, you can look for parsing errors in the logs that might relate to the datapack.

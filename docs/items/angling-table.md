@@ -1,6 +1,7 @@
 # Angling Table
 
-_This page is about the angling table block. For more about rod customization, see [this page](/mechanics/rod-customization)._
+!!! note
+    This page is about the angling table block. For more about rod customization, see [this page](/mechanics/rod-customization).
 
 The Angling Table (formerly known as the Angler's Workshop pre-1.5) is a block that can be used to customize fishing rods with new accessories.
 

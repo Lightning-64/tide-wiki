@@ -2,7 +2,8 @@
 
 The fishing journal is an item that will allow the player to keep track of the fish that they have discovered while playing the game.
 
-_This page is mainly about the mechanics of the fishing journal menu. For more about the fishing journal item, see [this page](/items/fishing-journal)._
+!!! note
+    This page is mainly about the mechanics of the fishing journal menu. For more about the fishing journal item, see [this page](/items/fishing-journal).
 
 ## Unlocking fish
 
@@ -39,5 +40,6 @@ Most fishes will have a description. Fish that don't have one will display the t
 The right side of the profile view will display the most common location and climate of the fish. The location will tell you the quality of water, dimension, biomes, or structure the fish can be found in. The climate will tell you the preferred conditions or temperature of that fish.
 
 ---
-\
-If commands are enabled, the journal can be cleared of all profiles and pages by running the command `/journal lock`
+
+!!! tip
+    If commands are enabled, the journal can be cleared of all profiles and pages by running the command `/journal lock`

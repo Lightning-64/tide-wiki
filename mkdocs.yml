@@ -35,6 +35,10 @@ repo_name: Lightning-64/Tide
 markdown_extensions:
   - tables
   - attr_list
+  - def_list
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
 
 theme:
   name: material
