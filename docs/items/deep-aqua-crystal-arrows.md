@@ -12,4 +12,4 @@ Deep aqua arrows can be crafted by surrounding 8 regular arrows in one deep aqua
 
 They are unique in that they always fly in a perfectly straight line, on the surface or underwater. Their best use is underwater where regular arrows don't fly well, but they can be used anywhere you want.
 
-![deep-aqua-arrow](/assets/images/deep-aqua-arrow.png)
+![deep-aqua-arrow](../assets/images/deep-aqua-arrow.png)

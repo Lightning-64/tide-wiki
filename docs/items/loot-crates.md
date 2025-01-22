@@ -9,7 +9,7 @@ Loot crates are blocks that can be randomly pulled from the water when fishing i
 In order to catch a crate, the player must be fishing either in open water (meaning there's no blocks besides water near the bobber) or anywhere in lava. After that, crate chance varies depending on the player's luck. Having a higher fishing luck will increase the chances of catching a crate.
 
 !!! tip
-    You can increase the chance of catching a crate while fishing to 25% by fishing with [magnetic-bait](https://lightning-64.github.io/tide-wiki/items/bait-items/#magnetic-bait) equipped!
+    You can increase the chance of catching a crate while fishing to 25% by fishing with [magnetic bait](https://lightning-64.github.io/tide-wiki/items/bait-items/#magnetic-bait) equipped!
 
 Here's a simplified version of minecraft's fishing loot table, including Tide's crate chances.
 
