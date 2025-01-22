@@ -11,11 +11,15 @@ A player can right-click with the fishing journal book to open the menu and see 
 
 When a player picks up a fish that they have not discovered yet, it will be automatically added to their fishing journal and a toast popup will be displayed. That fish item will then be permanently added to the journal for that player in that world. Keep in mind that the fishing journal will not share content between players.
 
+![toast](../assets/images/toast.png)
+
 ## Pages
 
 The fishing journal screen can be navigated using the buttons at the bottom of the screen.
 
 The journal will contain **pages**, and each page will contain **profiles**. Each profile can be seen in the form of a box containing the fish item. Profiles that are not unlocked yet will have the fish item display in black, while unlocked profiles will display the full color version of the fish it references.
+
+![journal-page](../assets/images/fishing-journal.png)
 
 ### Description
 
@@ -23,9 +27,12 @@ Below the profiles, each page will contain a description about what kind of fish
 
 ## Profiles
 
+!!! note
+    Profile boxes that have been unlocked but not read will display a yellow marker in their corner. This marker will disappear when the profile is read.
+
 To read an unlocked profile, click on the profile box. A new screen will appear with info about the fish.
 
-*Note: Profile boxes that have been unlocked but not read will display a yellow marker in their corner. This marker will disappear when the profile is read.*
+![profile](../assets/images/journal-profile.png)
 
 ### Title
 

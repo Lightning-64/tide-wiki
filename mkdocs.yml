@@ -28,6 +28,11 @@ nav:
       - Custom Bait Items: config/datapacks/custom-bait-items.md
       - Custom Rod Accessories: config/datapacks/custom-rod-accessories.md
 
+extra:
+  social:
+    - icon: fontawesome/brands/discord
+      link: https://discord.gg/773R6cruH6
+
 extra_css:
   - stylesheets/extra.css
 
@@ -70,5 +75,8 @@ theme:
   features:
     - header.autohide
     - navigation.tabs
-    - navigation.sections
+    - navigation.tabs.sticky
+    - navigation.expand
+    - navigation.path
+    - navigation.top
     - content.code.copy

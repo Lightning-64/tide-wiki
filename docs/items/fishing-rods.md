@@ -1,12 +1,16 @@
 # Fishing Rods
 
-![fishing-rods](https://github.com/user-attachments/assets/c67fd9f4-937c-4620-8911-476130c9f5c0)
+There are currently 6 types of fishing rods added by Tide, as well as the basic fishing rod.
 
----
+![fishing-rods](../assets/images/fishing-rods.png)
+
+## Crafting
+
+Fishing rods can be crafted at a smithing table with a piece of string, the rod's crafting material (see the list below), and a lower-tier fishing rod.
+
+![fishing-rod-crafting](../assets/images/recipes/fishing-rods.png)
 
 ## Types
-
-There are currently 6 types of fishing rods added by the mod.
 
 ### Stone fishing rod
 > * Default durability: 32
@@ -34,9 +38,3 @@ There are currently 6 types of fishing rods added by the mod.
 > * Item is fireproof
 
 ---
-
-## Crafting
-
-Fishing rods can be crafted at a smithing table with a piece of string, the rod's crafting material (see above), and a lower-tier fishing rod.
-
-![fishing-rod-crafting](https://github.com/user-attachments/assets/521e554f-668e-440f-9ec0-15c89f578c2d)
