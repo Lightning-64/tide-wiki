@@ -1,4 +1,7 @@
-# Welcome to the Tide wiki!
+!!! warning "Notice"
+    This site is outdated as of Tide 2.0! An updated wiki will be available soon.
+
+## Welcome to the Tide wiki!
 
 The goal of this mod is to create a more immersive fishing experience by adding new mechanics and fish to the game.
 
