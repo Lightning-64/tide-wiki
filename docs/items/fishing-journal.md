@@ -1,3 +1,6 @@
+!!! warning
+    This page contains outdated content!
+
 # Fishing Journal
 
 !!! note

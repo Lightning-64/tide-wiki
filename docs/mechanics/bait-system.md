@@ -1,10 +1,10 @@
 # The Bait System
 
-Bait can be held along with a fishing rod while fishing to increase speed and provide other fishing buffs depending on what bait you use.
+Bait can be used along with a fishing rod while fishing to increase speed and provide other fishing buffs depending on what bait you use.
 
 ## Usage
 
-To use bait, drag the bait item over to the fishing rod in the inventory view and right click to fill an avaliable bait slot. The farthest left bait will be used.
+To use bait, drag the bait item over to the fishing rod in the inventory view and right click to fill an available bait slot. The farthest left bait will be used.
 
 ![bait](../assets/images/bait-slots.png)
 

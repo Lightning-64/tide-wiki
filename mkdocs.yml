@@ -18,8 +18,6 @@ nav:
     - Fishing Lines: items/lines.md
     - Bait Items: items/bait-items.md
     - Loot Crates: items/loot-crates.md
-    - Jelly Torch: items/jelly-torch.md
-    - Deep Aqua Crystal/Arrow: items/deep-aqua-crystal-arrows.md
     - Junk Items: items/junk.md
   - Configuration:
     - Mod Config Settings: config/mod-config.md
@@ -67,7 +65,7 @@ theme:
       toggle:
         icon: material/lightbulb
         name: Switch to dark mode
-  logo: assets/tide-white.png
+  logo: assets/hook-icon.png
   favicon: assets/favicon.png
   icon:
     repo: fontawesome/brands/github

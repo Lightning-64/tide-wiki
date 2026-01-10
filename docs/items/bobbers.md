@@ -56,6 +56,8 @@ _(in order of appearance above)_
   > Material: Heart of the Sea
 - **Grassy Fishing Bobber**
   > Material: Grass Block
+- **Duck Fishing Bobber**
+  > Material: Raw Chicken
 
 !!! tip
-    The Apple bobber, Golden Apple bobber, and Enchanted Golden Apple bobber can be eaten to recieve their effects!
+    The Apple bobber, Golden Apple bobber, and Enchanted Golden Apple bobber can be eaten to receive their effects! There's really no reason to do this though...

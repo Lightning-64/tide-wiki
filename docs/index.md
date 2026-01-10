@@ -1,7 +1,7 @@
-!!! warning "Notice"
-    This site is outdated as of Tide 2.0! An updated wiki will be available soon.
+# Welcome to the Tide wiki!
 
-## Welcome to the Tide wiki!
+!!! warning
+    Some of the wiki pages are outdated as of Tide 2.0!
 
 The goal of this mod is to create a more immersive fishing experience by adding new mechanics and fish to the game.
 
@@ -13,14 +13,10 @@ On this site, you can find information and documentation about the mod's items, 
 - [Blocks and Items](https://lightning-64.github.io/tide-wiki/items/fishing-rods)
 - [Mod Configuration and Datapack Features](https://lightning-64.github.io/tide-wiki/config/mod-config)
 
-### Mod Downloads
+### Downloads
 
 * [Curseforge](https://www.curseforge.com/minecraft/mc-mods/tide)
 * [Modrinth](https://modrinth.com/mod/tide)
-
----
-
-![angelfish](assets/images/angelfish.png)
 
 ---
 

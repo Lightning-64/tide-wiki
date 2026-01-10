@@ -1,3 +1,6 @@
+!!! warning
+    This page contains outdated content!
+
 # Loot Crates
 
 Loot crates are blocks that can be randomly pulled from the water when fishing in lava or open water. When fished, they contain loot that changes dynamically depending on where they are pulled from.

@@ -1,3 +1,6 @@
+!!! warning
+    This page contains outdated content!
+
 # The Fishing Journal
 
 The fishing journal is an item that will allow the player to keep track of the fish that they have discovered while playing the game.
