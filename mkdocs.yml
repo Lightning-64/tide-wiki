@@ -22,9 +22,10 @@ nav:
   - Configuration:
     - Mod Config Settings: config/mod-config.md
     - Datapack Guides:
-      - Modifying the Journal: config/datapacks/journal-modification.md
-      - Custom Bait Items: config/datapacks/custom-bait-items.md
-      - Custom Rod Accessories: config/datapacks/custom-rod-accessories.md
+      - Getting Started: config/datapacks/datapack-features.md
+      - Fish Data: config/datapacks/fish-data.md
+      - Bait Items: config/datapacks/bait-items.md
+      - Fishing Rod Accessories: config/datapacks/fishing-rod-accessories.md
 
 extra:
   social:
@@ -34,7 +35,7 @@ extra:
 extra_css:
   - stylesheets/extra.css
 
-repo_url: https://github.com/Lightning-64/Tide
+repo_url: https://github.com/Lightning-64/Tide-2
 repo_name: Lightning-64/Tide
 
 markdown_extensions:

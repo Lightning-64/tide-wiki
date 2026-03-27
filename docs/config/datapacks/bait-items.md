@@ -4,13 +4,13 @@ As of version 1.3.2, it's possible to use json files in a datapack to give bait 
 
 ## Creating the files
 
-Json files for bait items should be placed in the `data/tide/bait/` path in your datapack. Additionally, you can create directories there and all the corrent json files will still be registered.
+Json files for bait items should be placed in the `data/tide/bait/` path in your datapack.
 
-Each item should have its own json file - it's recommended to name the json file after the item id, but the name is technically optional.
+Each item should have its own json file. It's recommended to name the json file after the item id, but the name technically doesn't matter.
 
 ## Json file structure
 
-Inside of each bait data file, there are 3 properties that need to be defined:
+Inside each bait data file, there are 3 properties that need to be defined:
 
 - `item` - A string containing item ID of the item you want to add the data to.
 - `speed_bonus` - An integer containing the speed bonus of the bait item. See [the bait page](https://lightning-64.github.io/tide-wiki/items/bait-items/#stats) for details on what that means.
